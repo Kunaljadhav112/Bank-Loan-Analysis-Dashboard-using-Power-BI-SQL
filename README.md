@@ -99,9 +99,28 @@ Provides detailed loan analysis:
 
 ---
 
-## 📈 Example SQL Queries Used
+## 🎓 Skills Demonstrated
 
-### Total Loan Applications
-```sql
-SELECT COUNT(id) AS Total_Loan_Applications
-FROM bank_loan_db.bank_loan_data;
+- SQL Data Analysis  
+- Power BI Dashboard Development  
+- Data Visualization  
+- Financial Data Analysis  
+- KPI Development and Performance Tracking  
+- Business Intelligence and Reporting  
+- Data Cleaning and Transformation  
+- Analytical Thinking and Problem Solving  
+
+---
+
+## 📊 Business Impact
+
+This project provides valuable insights to support financial and business decision-making:
+
+- Improved loan risk assessment by identifying good and bad loans  
+- Enabled monitoring of overall financial performance using key KPIs  
+- Helped identify high-risk loan segments based on loan status and borrower attributes  
+- Supported data-driven decision making through interactive dashboards  
+- Improved visibility into lending trends across regions, loan purposes, and borrower profiles  
+- Enhanced stakeholder reporting using clear and interactive Power BI visualizations  
+
+---
